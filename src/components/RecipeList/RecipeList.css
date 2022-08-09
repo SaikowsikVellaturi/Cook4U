@@ -1,0 +1,87 @@
+.recipelist {
+  margin: 40px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 25rem));
+  gap: 2rem;
+  justify-content: center;
+}
+.recipelist .card {
+  overflow: hidden;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: transform 200ms ease-in;
+}
+.recipelist .card .card-image {
+  height: 15rem;
+  width: 100%;
+  object-fit: fill;
+}
+.recipelist .card .description {
+  font-size: 16px;
+
+  padding: 0 20px;
+}
+.recipelist .card:hover {
+  transform: scale(1.02);
+}
+.recipelist .card-title {
+  font-size: 25px;
+}
+.recipelist .card a,
+.recipelist .card button {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  background: rgba(255, 183, 0, 0.982);
+  font-size: 0.9em;
+  width: 100px;
+  text-align: center;
+  padding: 8px;
+  border-radius: 4px;
+  transition: transform 200ms ease-in;
+
+  margin: 20px auto 0;
+}
+.recipelist .card a:hover {
+  transform: scale(1.02);
+
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  background: #333;
+  font-size: 0.9em;
+  width: 100px;
+  text-align: center;
+  padding: 8px;
+  border-radius: 4px;
+  margin: 20px auto 0;
+}
+.recipelist .description {
+  height: 70px;
+  word-wrap: break-word;
+}
+.recipelist .buttons {
+  display: flex;
+}
+.recipelist .card button:hover {
+  background: red;
+  color: #fff;
+  transform: scale(1.02);
+
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  text-decoration: none;
+  display: block;
+  font-size: 0.9em;
+  width: 100px;
+  text-align: center;
+  padding: 8px;
+  border-radius: 4px;
+  margin: 20px auto 0;
+}

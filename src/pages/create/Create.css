@@ -1,0 +1,83 @@
+.final-class {
+  display: flex;
+}
+.flex-child {
+  flex: 1;
+}
+
+.create-item {
+  /* margin: 100px; */
+  margin-left: 100px;
+  margin-top: 40px;
+}
+.create-item input {
+  width: 70%;
+}
+.create-item input.lines1 {
+  text-align: center;
+  width: 50%;
+  margin-right: 5px;
+}
+.create-item input.lines2 {
+  width: 15%;
+}
+.create-item .lines3 {
+  border: none;
+  border-radius: 5px;
+  margin-left: 5px;
+  width: 25%;
+  font-size: 15px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.tags-input label span {
+  display: flex;
+  margin: 30px 0 10px;
+}
+.create-item .tags-input ul li {
+  padding: 10px;
+  margin: 5px;
+  list-style-type: none;
+  background: white;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.create-item .tags-input ul li i {
+  margin-left: 10px;
+  font-size: 20px;
+  padding: 3px;
+  cursor: pointer;
+  background: rgba(255, 183, 0, 0.982);
+  border-radius: 20px;
+  color: #333;
+}
+.text-area textarea {
+  margin-top: 10vh;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 15px;
+  margin-bottom: 2.5vh;
+  height: 60vh;
+  resize: none;
+}
+.text-area {
+  margin-right: 100px;
+  /* display: flex; */
+}
+
+.lines {
+  display: flex;
+}
+.lines input {
+  font-size: 20px;
+}
+input.time {
+  text-align: center;
+}
+span {
+  font-size: 0.85em;
+}

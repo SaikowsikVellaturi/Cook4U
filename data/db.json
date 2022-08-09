@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Stew",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "200g of Tofu",
+        "300ml of Veg stock"
+      ],
+      "method": "Pressure cook potato, beans, and carrot with water and a little bit of salt, for 1 whistle. Keep aside, allow the pressure to release on its own.Heat oil in a pan, add spices; cinnamon, cardamom, cloves, peppercorns, bay leaf and star anise. Sauté until fragrant.Add 1 sprig of curry leaves, ginger and green chilies. Once the raw smell of the ginger subsides, add onion and sauté until translucent.Add the pressure-cooked vegetables, followed by adding thin coconut milk. Close the lid and allow it to cook on a low flame. Once the stew starts boiling, add frozen peas.As the dish starts boiling again, check for the veggies to be cooked perfectly and once done, add thick coconut milk. Do not allow the stew to boil after this stage.Top the stew with pepper powder and check for salt. Swirl the pan once and cook for another 2 minutes on a low flame. Top with 1 sprig of curry leaves and coconut oil. Turn off the flame.",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Veggie Pizza",
+      "ingredients": ["1 Base"],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Greek Salad",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "title": "First",
+      "ingredients": [
+        "Tofu",
+        "ing",
+        "carrot",
+        "potato",
+        "tomato",
+        "add",
+        "sub",
+        "mul",
+        "div"
+      ],
+      "cookingTime": "25min",
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "id": "X2cmjmZ"
+    },
+    {
+      "title": "Testing title",
+      "ingredients": ["ing1 - 3g"],
+      "method": "This is for testing",
+      "cookingTime": "5min",
+      "id": "hVuKh1j"
+    },
+    {
+      "title": "Test2",
+      "ingredients": ["first - 5g"],
+      "method": "rgvwfecds",
+      "cookingTime": "10min",
+      "id": "cExTyyf"
+    }
+  ]
+}

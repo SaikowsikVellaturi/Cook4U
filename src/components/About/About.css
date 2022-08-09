@@ -1,0 +1,11 @@
+.about p {
+  font-size: 20px;
+  margin: 0 12%;
+  margin-top: 80px;
+
+  line-height: 2;
+  text-align: start;
+}
+.about .first {
+  font-size: 30px;
+}
