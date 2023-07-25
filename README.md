@@ -1,3 +1,44 @@
+# ScreenShots
+
+1. Home page that contains all the recipes created
+
+![1](https://github.com/SaikowsikVellaturi/Cook4U/assets/74923250/72b6fc28-fefa-4ea8-ab81-a0aaab39cc17)
+
+2. Creation of New Recipe by clicking "Create" Button on Right top
+
+![6](https://github.com/SaikowsikVellaturi/Cook4U/assets/74923250/d01e1fe9-e1f7-4f61-8c29-8c6648722a76)
+
+3. Newly created Recipe appeared on Home Screen
+   
+![7](https://github.com/SaikowsikVellaturi/Cook4U/assets/74923250/f419627a-127c-4c63-bf38-2132243bb14d)
+
+
+4. Detailed view of the recipe
+
+![2](https://github.com/SaikowsikVellaturi/Cook4U/assets/74923250/547dabf8-7404-4faa-aa33-293170002f80)
+
+5. Demonstration of "Edit" button
+
+![3](https://github.com/SaikowsikVellaturi/Cook4U/assets/74923250/d93eab64-e905-40a2-ad40-71584d12d7b3)
+
+6. Demonstration of "Add Item"
+
+![4](https://github.com/SaikowsikVellaturi/Cook4U/assets/74923250/5ef53748-0b3c-4523-95f8-c782275c2665)
+
+7. Reflected Changes
+
+![5](https://github.com/SaikowsikVellaturi/Cook4U/assets/74923250/da6e6006-a72c-4511-addf-ee594f7b10aa)
+
+8. Deletion of Recipe on Home Screen
+
+   ![8](https://github.com/SaikowsikVellaturi/Cook4U/assets/74923250/dbaf14da-4588-42da-99a1-7a0e1938eb9c)
+
+9. Updated Home Screen
+
+    
+![9](https://github.com/SaikowsikVellaturi/Cook4U/assets/74923250/8fdeb04f-c491-41d9-903e-cf3e229e4524)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
